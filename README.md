@@ -56,13 +56,22 @@ No resumo, as médias observadas indicam similaridade entre as variáveis climat
 <p align="center">
 <img width="392" height="90" alt="Image" src="https://github.com/user-attachments/assets/ac0e6c30-ec7f-4d96-b3e5-9d1f47072d6d" /></a></p>
 
-Utilizando os algoritmos KNN, SVM e Random Forrest, identificamos que todos os modelos ficaram acima de 88%, com destaque para o Random Forest com 92%
-<p align="center">
-<img width="343" height="248" alt="Image" src="https://github.com/user-attachments/assets/d441f531-c01d-43ba-83f7-2cd5d5c5322c" /></a></p>
 
-Utilizando o Randomized Search para encontrar os melhores hiperparâmetros para cada modelo, observamos uma queda no desempenho do Random Forest para 87%, o algoritmo atingiu 85% de acuracia
 <p align="center">
-<img width="1107" height="306" alt="Image" src="https://github.com/user-attachments/assets/9d844186-365a-4817-89d6-d0f4ba13e51b" /></a></p>
+<img width="278" height="261" alt="Image" src="https://github.com/user-attachments/assets/f2b8b9dc-7d51-4f60-8ab4-a432804158c0" /></a></p>
+
+
+<p align="center">
+<img width="441" height="327" alt="Image" src="https://github.com/user-attachments/assets/fc6df31b-344e-4368-83a2-f0ec330e202a" /></a></p>
+
+<p align="center">
+<img width="292" height="364" alt="Image" src="https://github.com/user-attachments/assets/784363e0-9ee9-417f-891d-78b80f9210ab" /></a></p>
+
+<p align="center">
+<img width="315" height="54" alt="Image" src="https://github.com/user-attachments/assets/9d259ddc-ca26-4b16-8de9-f20abc399a52" /></a></p>
+
+<p align="center">
+<img width="346" height="209" alt="Image" src="https://github.com/user-attachments/assets/81dc390d-34c4-41d2-b0d6-6bd7ac437eb2" /></a></p>
 
 ## 🗃 Histórico de lançamentos
 

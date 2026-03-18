@@ -42,7 +42,17 @@ Tratando-se do tipo da dado, identificamos informações classificadas como obje
 <p align="center">
 <img width="197" height="115" alt="Image" src="https://github.com/user-attachments/assets/04c1f381-68e2-494a-90b1-39f8ccd2d25a" /></a></p>
 
-No resumo, as medias observadas demonstram que os dados 
+No resumo, as médias observadas indicam similaridade entre as variáveis climatológicas. Entretanto, a variável Yield apresenta variação entre as colheitas avaliadas, evidenciando que as condições climatológicas exercem efeitos distintos conforme o tipo de colheita.
+- Precipitation (mm day-1) [float64] media = 2486,49
+- Specific Humidity at 2 Meters (g/kg) [float64] media = 18,20
+- Relative Humidity at 2 Meters (%) [float64] media = 84,73
+- Temperature at 2 Meters (C) [float64] media = 26,18
+
+- Yield [int64] Cocoa, beans media = 8883,1
+- Yield [int64] Oil palm fruit media = 175804,6
+- Yield [int64] Rice, paddy media = 32099,66
+- Yield [int64] Rubber, natural media = 7824,89
+
 <p align="center">
 <img width="392" height="90" alt="Image" src="https://github.com/user-attachments/assets/ac0e6c30-ec7f-4d96-b3e5-9d1f47072d6d" /></a></p>
 

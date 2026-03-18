@@ -56,26 +56,42 @@ No resumo, as médias observadas indicam similaridade entre as variáveis climat
 <p align="center">
 <img width="392" height="90" alt="Image" src="https://github.com/user-attachments/assets/ac0e6c30-ec7f-4d96-b3e5-9d1f47072d6d" /></a></p>
 
-
+Para fins de simulação, analisou-se a dispersão da variável Yield em relação à Precipitation (mm day). Observou-se que a colheita do tipo *Oil palm fruit* apresenta valores superiores quando comparada às demais plantações.
 <p align="center">
 <img width="278" height="261" alt="Image" src="https://github.com/user-attachments/assets/f2b8b9dc-7d51-4f60-8ab4-a432804158c0" /></a></p>
 
-
+O grafico boxplot tambem apresenta desvio superior médio para a colheira  *Oil palm fruit*, dados consolidados variavel Yield
 <p align="center">
 <img width="441" height="327" alt="Image" src="https://github.com/user-attachments/assets/fc6df31b-344e-4368-83a2-f0ec330e202a" /></a></p>
 
+Para a análise de clusterização, utilizou-se o algoritmo K-Means. Como resultado, a colheita Oil palm fruit apresentou maior distanciamento em relação às demais, sendo alocada no cluster 0. Já as colheitas Cocoa, Beans e Rubber (natural) foram agrupadas no cluster 2, indicando maior proximidade entre si considerando os dados observados.
 <p align="center">
 <img width="292" height="364" alt="Image" src="https://github.com/user-attachments/assets/784363e0-9ee9-417f-891d-78b80f9210ab" /></a></p>
 
+## 📜 Predição
+
+Para fins de simulação, utilizou-se a colheita Oil palm fruit, aplicando-se cinco algoritmos de predição: 
+- Random Forest Regressor 
+- Decision Tree
+- Linear Regressor 
+- KNN Regressor
+- SVM Regressor
+
+Para a projeção e avaliação da assertividade dos modelos, foram adotadas variáveis de entrada fixas nas simulações, a saber: 
+- Precipitation (mm day⁻¹) = 2486 
+- Specific Humidity at 2 Meters (g/kg) = 84
+- Relative Humidity at 2 Meters (%) = 18 
+- Temperature at 2 Meters (°C) = 26.
 <p align="center">
 <img width="315" height="54" alt="Image" src="https://github.com/user-attachments/assets/9d259ddc-ca26-4b16-8de9-f20abc399a52" /></a></p>
 
+Dentre os algoritmos avaliados, o KNN Regressor apresentou o menor desvio, obtendo um valor de R² score igual a 0,39, indicando desempenho superior em relação aos demais modelos testados.
 <p align="center">
 <img width="346" height="209" alt="Image" src="https://github.com/user-attachments/assets/81dc390d-34c4-41d2-b0d6-6bd7ac437eb2" /></a></p>
 
 ## 🗃 Histórico de lançamentos
 
-* 0.1.0 - 10/11/2025
+* 0.1.0 - 18/03/2026
     *
 
 ## 📋 Licença

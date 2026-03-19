@@ -10,6 +10,9 @@
 ## 👨‍🎓 Integrantes: 
 - <a href="https://www.linkedin.com/in/paulo-pereira-de-souza-junior-mba-msc-0b497825/">Paulo Pereira de Souza Junior</a>
 
+## 👨‍🎓 Apresentacao: 
+- <a href="https://youtu.be/_ohMW9f0zuI">Video Apresentação - YOUTUBE</a>
+
 ## 📜  Análise exploratória
 A base crop_yield apresenta a seguinte estrutura de informações:
 - Cultura: o nome da safra para a qual o rendimento está sendo medido.

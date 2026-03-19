@@ -99,6 +99,26 @@ Nome da instância: Família T3 (como a t3.micro) (2 CPUs, 1 GiB de RAM e Desemp
 
 Amazon Elastic Block Store (EBS): SSD de uso geral (gp3) com 50 gb
 
+Definição de Localidade - Virginia EUA.
+<p align="center">
+<img width="921" height="175" alt="Image" src="https://github.com/user-attachments/assets/7b5f850c-ccd9-4a34-b64c-8c9b033311b4" /></a></p>
+
+Definição de Localidade - Sao Paulo.
+<p align="center">
+<img width="912" height="215" alt="Image" src="https://github.com/user-attachments/assets/992e734e-f007-4e2c-9a8e-370e9a3d1f39" /></a></p>
+
+Seleção do tipo do serviço.
+<p align="center">
+<img width="1696" height="622" alt="Image" src="https://github.com/user-attachments/assets/8113d3a6-a718-4869-9239-9349834936d3" /></a></p>
+
+Seleção do tipo do tipo de armazenamento.
+<p align="center">
+<img width="1696" height="622" alt="Image" src="https://github.com/user-attachments/assets/8113d3a6-a718-4869-9239-9349834936d3" /></a></p>
+
+Simulação de Custo.
+<p align="center">
+<img width="1501" height="347" alt="Image" src="https://github.com/user-attachments/assets/b47e59cb-f428-4bfe-8b6c-f6c249b056ac" /></a></p>
+
 ## 🗃 Histórico de lançamentos
 
 * 0.1.0 - 18/03/2026

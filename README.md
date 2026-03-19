@@ -113,11 +113,15 @@ Seleção do tipo do serviço.
 
 Seleção do tipo do tipo de armazenamento.
 <p align="center">
-<img width="1696" height="622" alt="Image" src="https://github.com/user-attachments/assets/8113d3a6-a718-4869-9239-9349834936d3" /></a></p>
+<img width="1114" height="605" alt="Image" src="https://github.com/user-attachments/assets/56dd1e2f-afb3-4b98-86e1-637cdbab4edc" /></a></p>
 
 Simulação de Custo.
 <p align="center">
 <img width="1501" height="347" alt="Image" src="https://github.com/user-attachments/assets/b47e59cb-f428-4bfe-8b6c-f6c249b056ac" /></a></p>
+
+*2. Suponha também que você precisa acessar rapidamente os dados dos sensores e que há restrições legais para armazenamento no exterior. Qual opção você escolheria? Justifique.*
+
+Considerando o cenário de restrições legais para armazenamento no exterior. Ao utilizar a região de São Paulo, os dados permanecem em solo brasileiro, atendendo a requisitos de leis locais (como a LGPD) que podem exigir que dados sensíveis ou governamentais não saiam das fronteiras do país.
 
 ## 🗃 Histórico de lançamentos
 

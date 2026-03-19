@@ -89,6 +89,16 @@ Dentre os algoritmos avaliados, o KNN Regressor apresentou o menor desvio, obten
 <p align="center">
 <img width="346" height="209" alt="Image" src="https://github.com/user-attachments/assets/81dc390d-34c4-41d2-b0d6-6bd7ac437eb2" /></a></p>
 
+## *Cap 1 - Machine Learning hospedada em uma estrutura de computação em nuvem*
+
+## 📜  Configuração de Serviços AWS
+
+Especificações do EC2: Instancia Compartilhada (onde múltiplos usuários da AWS executam suas máquinas virtuais no mesmo hardware físico)
+
+Nome da instância: Família T3 (como a t3.micro) (2 CPUs, 1 GiB de RAM e Desempenho da rede Up to 5 Gigabit)
+
+Amazon Elastic Block Store (EBS): SSD de uso geral (gp3) com 50 gb
+
 ## 🗃 Histórico de lançamentos
 
 * 0.1.0 - 18/03/2026
